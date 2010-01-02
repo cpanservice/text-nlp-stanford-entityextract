@@ -11,5 +11,6 @@ requires 'Text::Unidecode';
 
 auto_install;
 
+repository 'http://github.com/singingfish/text-nlp-stanford-entityextract';
 WriteAll;
 
